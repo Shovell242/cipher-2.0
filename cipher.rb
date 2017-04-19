@@ -1,5 +1,3 @@
-require "colorize"
-
 class Cipher
 	attr_reader :file, :offset, :text
 
